@@ -1,7 +1,7 @@
 # LOVE2D flappy bird
 this sucks please don't play it
 
-bugs: 
+bugs:  
 topside collisions don't exist  
 
 there's no music  
